@@ -1,6 +1,6 @@
 # ASCEND Academy Website
 
-A simple, static (with light interactivity) website for ASCEND Academy, a 501(c)(3) nonprofit teaching PSAT 8/9 prep and machine learning to younger and underrepresented students.
+A website for ASCEND Academy, a 501(c)(3) nonprofit teaching PSAT 8/9 prep and machine learning to younger and underrepresented students.
 
 ## Structure
 
