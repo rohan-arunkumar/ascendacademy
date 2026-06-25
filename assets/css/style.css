@@ -115,9 +115,14 @@ img { max-width: 100%; display: block; }
   display: grid;
   place-items: center;
   flex-shrink: 0;
+  overflow: hidden;
 }
 
 .brand-mark svg { width: 18px; height: 18px; }
+.brand-mark img { width: 34px; height: 34px; object-fit: cover; border-radius: 50%; display: block; }
+/* LOGO: to swap in your own logo, replace the SVG inside every .brand-mark with:
+   <img src="assets/images/logo.png" alt="ASCEND Academy" style="width:34px;height:34px;object-fit:cover;border-radius:50%;">
+   and save your logo file at assets/images/logo.png */
 
 .nav-links {
   display: flex;
